@@ -1,0 +1,5 @@
+﻿/* समाज शक्ति युवा क्लब - CSS */
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Poppins',sans-serif; background:#f8fafc; color:#0f172a; }
+/* सबै CSS माथिको HTML मा नै embedded छ, त्यसैले यो फाइल खाली राख्न सक्नुहुन्छ */
+/* यदि चाहनुहुन्छ भने केहि extra CSS यहाँ राख्न सक्नुहुन्छ */
